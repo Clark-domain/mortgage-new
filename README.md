@@ -8,7 +8,7 @@
 
 ## 预览
 
-https://clark-domain.github.io/mortgage-adv/
+https://clark-domain.github.io/mortgage-new/
 
 ## 代码结构
 
