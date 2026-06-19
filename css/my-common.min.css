@@ -223,9 +223,9 @@ strong {
     height: 40px;
     padding: 0;
     -webkit-box-shadow: none;
-    border-top: 1px solid #1e90ff;
-    border-bottom: 1px solid #1e90ff;
-    background: #1e90ff
+    border-top: 1px solid #008800;
+    border-bottom: 1px solid #008800;
+    background: #008800
 }
 
 .ui-bar[skin~=title] .left,
@@ -274,9 +274,9 @@ strong {
     color: #fff;
     font-size: 16px;
     -webkit-box-shadow: none;
-    border-top: 1px solid #1e90ff;
-    border-bottom: 1px solid #1e90ff;
-    background: #1e90ff;
+    border-top: 1px solid #c00;
+    border-bottom: 1px solid #c00;
+    background: #c00
 }
 
 .ui-bar[skin~=tab] {
@@ -485,7 +485,7 @@ strong {
     position: relative;
     overflow: visible;
     left: 10px;
-    background: #1e90ff;
+    background: #008800;
     background-size: auto 34px;
     border: 0
 }
@@ -515,17 +515,17 @@ strong {
 }
 
 .ui-btn[skin~=blue] {
-    border-color: #1e90ff;
+    border-color: #008800;
     border-radius: 0;
     box-shadow: none;
-    background: #1e90ff
+    background: #008800
 }
 
 .ui-btn[skin~=blue].active,
 .ui-btn[skin~=blue].hover {
-    border-color: #0056b3;
+    border-color: #006600;
     box-shadow: none;
-    background: #0056b3
+    background: #006600
 }
 
 .ui-btn[skin~=yellow] {
@@ -1437,9 +1437,9 @@ i {
 
 
     -webkit-box-shadow: none;
-    border-top: 1px solid #1e90ff;
-    border-bottom: 1px solid #1e90ff;
-    background: #1e90ff;
+    border-top: 1px solid #008800;
+    border-bottom: 1px solid #008800;
+    background: #008800;
     }
 
     .ui-bar[skin~=title] .title {
