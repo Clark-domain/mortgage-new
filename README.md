@@ -8,7 +8,7 @@
 
 ## 预览
 
-https://geeeeeeeek.github.io/fangdai/
+https://clark-domain.github.io/mortgage-new/
 
 ## 代码结构
 
@@ -16,8 +16,4 @@ https://geeeeeeeek.github.io/fangdai/
 
  
 
-## 效果参考
 
-- [房屋利率计算器](http://calculator.fktool.com)
-- [fangdai-eyg](https://fangdai-eyg.pages.dev/)
-- [计算器-vercel](https://fangdai.vercel.app/)
